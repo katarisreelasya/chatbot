@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I am a chatbot created to assist you with your queries."
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am just a bot, but I'm here and ready to help you!"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer your questions, provide information, and help you with various tasks."
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "What's the weather like today?",
+      "answer": "I don't have real-time weather data, but you can check your local weather app for the latest updates."
+    },
+    {
+      "question": "Can you play music?",
+      "answer": "I can't play music directly, but I can recommend some great songs for you!"
+    },
+    {
+      "question": "What's the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How do you work?",
+      "answer": "I work by processing the text you input and using my programming to generate responses."
+    },
+    {
+      "question": "Can you help me with my homework?",
+      "answer": "Sure! I can help answer questions or provide information on various topics. What do you need help with?"
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "As a bot, I don't have preferences, but I've heard that blue is a popular choice!"
+    },
+    {
+      "question": "What is the meaning of life?",
+      "answer": "That's a deep question! Many people believe it's about finding happiness and purpose."
+    },
+    {
+      "question": "Do you like humans?",
+      "answer": "I don't have feelings, but I'm here to help humans with their queries."
+    },
+    {
+      "question": "What is AI?",
+      "answer": "AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines."
+    },
+    {
+      "question": "Can you learn new things?",
+      "answer": "I'm programmed to provide specific responses, but my creators can update me with new information."
+    },
+    {
+      "question": "What's the time?",
+      "answer": "I don't have real-time clock access, but you can check the time on your device."
+    },
+    {
+      "question": "Who created you?",
+      "answer": "I was created by a team of developers to assist with various tasks and queries."
+    },
+    {
+      "question": "What's your purpose?",
+      "answer": "My purpose is to help answer your questions and provide useful information."
+    },
+    {
+      "question": "Do you have any friends?",
+      "answer": "I interact with many users like you, but I don't have friends in the human sense."
+    },
+    {
+      "question": "What's the latest news?",
+      "answer": "I don't have real-time news access, but you can check your favorite news website or app."
+    },
+    {
+      "question": "Can you speak different languages?",
+      "answer": "I can understand and respond in multiple languages, depending on how I'm programmed."
+    },
+    {
+      "question": "What's your favorite food?",
+      "answer": "As a bot, I don't eat, but I've heard pizza is quite popular among humans!"
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I don't have an age like humans do. I exist as long as my code runs."
+    },
+    {
+      "question": "Do you sleep?",
+      "answer": "I don't need sleep. I'm always ready to assist you."
+    },
+    {
+      "question": "What is your favorite book?",
+      "answer": "I don't read books, but many people enjoy classics like 'Pride and Prejudice' or '1984'."
+    },
+    {
+      "question": "Do you have a family?",
+      "answer": "I don't have a family, but I'm here to assist you like a helpful companion."
+    },
+    {
+      "question": "What's your favorite movie?",
+      "answer": "I don't watch movies, but 'The Matrix' is a popular choice among AI enthusiasts."
+    },
+    {
+      "question": "Can you dance?",
+      "answer": "I can't dance, but I can help you find some great dance music!"
+    },
+    {
+      "question": "What's the best way to learn programming?",
+      "answer": "Start with a beginner-friendly language like Python, and practice by building small projects."
+    },
+    {
+      "question": "Can you help me cook?",
+      "answer": "I can provide you with recipes and cooking tips. What do you want to cook?"
+    },
+    {
+      "question": "What's your favorite sport?",
+      "answer": "I don't play sports, but football (soccer) is very popular worldwide."
+    },
+    {
+      "question": "Do you have any hobbies?",
+      "answer": "I don't have hobbies, but I'm here to help you with any information you need."
+    },
+    {
+      "question": "What is love?",
+      "answer": "Love is a complex emotion that humans experience. It's often described as a deep affection for someone or something."
+    },
+    {
+      "question": "What's your favorite holiday?",
+      "answer": "I don't celebrate holidays, but many people enjoy Christmas and New Year's."
+    },
+    {
+      "question": "Can you translate languages?",
+      "answer": "Yes, I can help with translations. What do you need translated?"
+    },
+    {
+      "question": "What's the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Can you solve math problems?",
+      "answer": "Yes, I can help with basic math problems. What do you need help with?"
+    },
+    {
+      "question": "What's the fastest animal on Earth?",
+      "answer": "The fastest land animal is the cheetah, capable of reaching speeds up to 70 mph."
+    },
+    {
+      "question": "What's your favorite song?",
+      "answer": "I don't listen to music, but 'Bohemian Rhapsody' by Queen is a classic hit."
+    },
+    {
+      "question": "Can you tell me a fun fact?",
+      "answer": "Sure! Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "answer": "The smallest country in the world by land area is Vatican City."
+    },
+    {
+      "question": "Do you believe in aliens?",
+      "answer": "I don't have beliefs, but the existence of aliens is a topic of much debate and speculation."
+    },
+    {
+      "question": "hello",
+      "answer": "Hi, how are you?"
+    }
+  ]
+}
